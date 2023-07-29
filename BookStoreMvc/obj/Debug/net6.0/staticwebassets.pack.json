@@ -1,0 +1,117 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Ege\\Desktop\\BookShelf\\BookShelf\\BookShelfMvc\\BookStoreMvc\\wwwroot\\Uploads\\087bbc20-9ce6-46bb-b3aa-96ddf42df83f.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\087bbc20-9ce6-46bb-b3aa-96ddf42df83f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ege\\Desktop\\BookShelf\\BookShelf\\BookShelfMvc\\BookStoreMvc\\wwwroot\\Uploads\\10788999-5d41-457e-b320-7a43b2866831.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\10788999-5d41-457e-b320-7a43b2866831.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ege\\Desktop\\BookShelf\\BookShelf\\BookShelfMvc\\BookStoreMvc\\wwwroot\\Uploads\\1315eb3c-9cb4-4b2d-a6fc-e20caf430dd3.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\1315eb3c-9cb4-4b2d-a6fc-e20caf430dd3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ege\\Desktop\\BookShelf\\BookShelf\\BookShelfMvc\\BookStoreMvc\\wwwroot\\Uploads\\32965e0e-dad8-460a-9742-e3e18c54a788.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\32965e0e-dad8-460a-9742-e3e18c54a788.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ege\\Desktop\\BookShelf\\BookShelf\\BookShelfMvc\\BookStoreMvc\\wwwroot\\Uploads\\52863b6f-819c-4040-81d7-f29bdd48df7e.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\52863b6f-819c-4040-81d7-f29bdd48df7e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ege\\Desktop\\BookShelf\\BookShelf\\BookShelfMvc\\BookStoreMvc\\wwwroot\\Uploads\\78361bae-2b68-4677-b0d6-173ce703210b.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\78361bae-2b68-4677-b0d6-173ce703210b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ege\\Desktop\\BookShelf\\BookShelf\\BookShelfMvc\\BookStoreMvc\\wwwroot\\Uploads\\88d8d73f-bd38-47e2-a82c-79987fe7c5e0.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\88d8d73f-bd38-47e2-a82c-79987fe7c5e0.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ege\\Desktop\\BookShelf\\BookShelf\\BookShelfMvc\\BookStoreMvc\\wwwroot\\Uploads\\8c6033d4-db65-428b-b35e-4f4244166dca.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\8c6033d4-db65-428b-b35e-4f4244166dca.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ege\\Desktop\\BookShelf\\BookShelf\\BookShelfMvc\\BookStoreMvc\\wwwroot\\Uploads\\fd341a9e-0407-4867-b9b2-1033971331aa.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\fd341a9e-0407-4867-b9b2-1033971331aa.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ege\\Desktop\\BookShelf\\BookShelf\\BookShelfMvc\\BookStoreMvc\\wwwroot\\css\\forms.css",
+      "PackagePath": "staticwebassets\\css\\forms.css"
+    },
+    {
+      "Id": "C:\\Users\\Ege\\Desktop\\BookShelf\\BookShelf\\BookShelfMvc\\BookStoreMvc\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Ege\\Desktop\\BookShelf\\BookShelf\\BookShelfMvc\\BookStoreMvc\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Ege\\Desktop\\BookShelf\\BookShelf\\BookShelfMvc\\BookStoreMvc\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Ege\\Desktop\\BookShelf\\BookShelf\\BookShelfMvc\\BookStoreMvc\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Ege\\Desktop\\BookShelf\\BookShelf\\BookShelfMvc\\BookStoreMvc\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ege\\Desktop\\BookShelf\\BookShelf\\BookShelfMvc\\BookStoreMvc\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Ege\\Desktop\\BookShelf\\BookShelf\\BookShelfMvc\\BookStoreMvc\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Ege\\Desktop\\BookShelf\\BookShelf\\BookShelfMvc\\BookStoreMvc\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ege\\Desktop\\BookShelf\\BookShelf\\BookShelfMvc\\BookStoreMvc\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Ege\\Desktop\\BookShelf\\BookShelf\\BookShelfMvc\\BookStoreMvc\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ege\\Desktop\\BookShelf\\BookShelf\\BookShelfMvc\\BookStoreMvc\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Ege\\Desktop\\BookShelf\\BookShelf\\BookShelfMvc\\BookStoreMvc\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Ege\\Desktop\\BookShelf\\BookShelf\\BookShelfMvc\\BookStoreMvc\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ege\\Desktop\\BookShelf\\BookShelf\\BookShelfMvc\\BookStoreMvc\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.BookStoreMvc.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.BookStoreMvc.props",
+      "PackagePath": "build\\BookStoreMvc.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.BookStoreMvc.props",
+      "PackagePath": "buildMultiTargeting\\BookStoreMvc.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.BookStoreMvc.props",
+      "PackagePath": "buildTransitive\\BookStoreMvc.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

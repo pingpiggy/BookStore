@@ -1,0 +1,92 @@
+﻿@{
+    string username = User.Identity.Name;
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Book Shelf</title>
+    <link rel="stylesheet" href="/css/style.css">
+    <link rel="stylesheet" href="/css/forms.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@500;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="icon" href="~/Uploads/mbr-121x93.png">
+    <link href="https://fonts.googleapis.com/css2?family=Mukta:wght@500&display=swap" rel="stylesheet">
+</head>
+<body>
+    <nav class="nav-bar">
+        <div class="logo">
+            
+           BookShelf
+        </div>
+        <ul class="nav-link">
+            <li><a class="active" href="/Home/Index">Home</a></li>
+            
+            @if (!string.IsNullOrEmpty(username))
+            {
+                <li>
+
+                    <a href="#">
+                        Books
+                        <i class="fa fa-caret-down"></i>
+                    </a>
+
+                    <ul class="dropdown-nav-link">
+                        <li><a href="/Book/Add"> Add </a></li>
+                        <li><a href="/Book/BookList"> List</a></li>
+                        
+                        
+
+                    </ul>
+                </li>
+            }
+
+            @if (!string.IsNullOrEmpty(username))
+            {
+                <li>
+
+                    <a href="#">
+                        Genres
+                        <i class="fa fa-caret-down"></i>
+                    </a>
+
+                    <ul class="dropdown-nav-link">
+                      
+                        <li><a href="/Genre/Add">Add </a></li>
+                        <li><a href="/Genre/GenreList">List</a></li>
+
+
+                    </ul>
+                </li>
+            }
+
+            @if (!string.IsNullOrEmpty(username))
+            {
+                <li>
+                    <a href="#"> @username  <i class="fa fa-caret-down"></i></a>
+
+                    <ul class="dropdown-nav-link">
+
+                        <li><a href="/UserAuthentication/Logout">Logout</a></li>
+                    </ul>
+                </li>
+            }
+
+            @if (string.IsNullOrEmpty(username))
+            {
+                <li><a href="/UserAuthentication/Login">Login</a></li>
+            }
+        </ul>
+    </nav>
+    <div class="container">
+        @RenderBody()
+    </div>
+    <footer>
+        &#169; BookShelf
+    </footer>
+</body>
+</html>
